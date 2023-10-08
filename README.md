@@ -1,3 +1,4 @@
+![Screenshot (331)](https://github.com/mubina8/KPMG-Virtual-Internship/assets/54999073/1a683a4d-9bb2-41a3-841b-dde20faaceeb)
 # KPMG-Virtual-Internship
 Major Part was RFM Analysis: RFM stands for Recency , Frequency and Monetory. Which identify the targeted and valuable customer in market based on this 3 values
 Lets eloborate what is Recency: How recently did the customer make a purchase. Person who make the recent purchase are mostly those customer are valuable for the business.
